@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyB-Qtv4j3J8lc0PkCc2h7fORsf9xHXaFXs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>971311776590</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.houseRent</string>
+	<key>PROJECT_ID</key>
+	<string>house-rent-64aee</string>
+	<key>STORAGE_BUCKET</key>
+	<string>house-rent-64aee.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:971311776590:ios:1c746e79c73620028c141f</string>
+	<key>DATABASE_URL</key>
+	<string>https://house-rent-64aee-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

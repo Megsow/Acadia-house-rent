@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "971311776590",
+    "firebase_url": "https://house-rent-64aee-default-rtdb.firebaseio.com",
+    "project_id": "house-rent-64aee",
+    "storage_bucket": "house-rent-64aee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971311776590:android:cd5c13f04f9fdab38c141f",
+        "android_client_info": {
+          "package_name": "com.example.house_rent"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6OYC6R9-VxH99YLdtK_HxYjxSgXy3CTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
